@@ -1,0 +1,16 @@
+/* For Smartphone */
+
+@media all and (max-width: 670px) {
+    footer {
+        position: static;
+    }
+    footer h2 {
+        display: none;
+    }
+    footer img {
+        position: static;
+        display: block;
+        width: 100px;
+        margin: auto;
+    }
+}
